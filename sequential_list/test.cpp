@@ -1,14 +1,3 @@
-/************************************************************
- * You can use this file to test if your code is working
- * properly by designing your own test case and test code.
- * 
- * We will only be providing test cases for Lab 1.1.
- * 
- * To grade, we will compile your code and run it against
- * our own test suite. You should design your own tests in
- * this file to ensure that your code does what you expect.
- ************************************************************/
-
 #include <iostream>
 #include <string>
 
